@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Entites\bin\Debug\net6.0\CleanArchitecture.Entites.deps.json
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Entites\bin\Debug\net6.0\CleanArchitecture.Entites.dll
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Entites\bin\Debug\net6.0\CleanArchitecture.Entites.pdb
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Entites\obj\Debug\net6.0\CleanArchitecture.Entites.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Entites\obj\Debug\net6.0\CleanArchitecture.Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Entites\obj\Debug\net6.0\CleanArchitecture.Entites.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Entites\obj\Debug\net6.0\CleanArchitecture.Entites.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Entites\obj\Debug\net6.0\CleanArchitecture.Entites.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Entites\obj\Debug\net6.0\CleanArchitecture.Entites.dll
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Entites\obj\Debug\net6.0\refint\CleanArchitecture.Entites.dll
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Entites\obj\Debug\net6.0\CleanArchitecture.Entites.pdb
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Entites\obj\Debug\net6.0\ref\CleanArchitecture.Entites.dll

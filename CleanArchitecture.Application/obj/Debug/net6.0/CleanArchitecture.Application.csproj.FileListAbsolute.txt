@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.deps.json
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.dll
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Entites.dll
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Infrastructure.dll
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Entites.pdb
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.CopyComplete
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.dll
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Application\obj\Debug\net6.0\refint\CleanArchitecture.Application.dll
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\CleanArchitecture.Application\obj\Debug\net6.0\ref\CleanArchitecture.Application.dll
