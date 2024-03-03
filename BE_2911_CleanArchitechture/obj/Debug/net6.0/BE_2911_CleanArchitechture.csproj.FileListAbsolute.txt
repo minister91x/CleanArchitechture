@@ -65,3 +65,6 @@ C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\BE_2911_CleanArchitechtur
 C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\BE_2911_CleanArchitechture\obj\Debug\net6.0\BE_2911_CleanArchitechture.pdb
 C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\BE_2911_CleanArchitechture\obj\Debug\net6.0\BE_2911_CleanArchitechture.genruntimeconfig.cache
 C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\BE_2911_CleanArchitechture\obj\Debug\net6.0\ref\BE_2911_CleanArchitechture.dll
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\BE_2911_CleanArchitechture\bin\Debug\net6.0\MediatR.dll
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\BE_2911_CleanArchitechture\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Admin\source\repos\BE_2911_CleanArchitechture\BE_2911_CleanArchitechture\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

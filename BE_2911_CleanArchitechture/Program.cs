@@ -1,7 +1,9 @@
+using CleanArchitecture.Application;
 using CleanArchitecture.Application.IRepository;
 using CleanArchitecture.Application.Repository;
 using CleanArchitecture.Infrastructure.DBContext;
 using CleanArchitecture.Infrastructure.Repositories;
+using MediatR;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -18,6 +20,8 @@ builder.Services.AddDbContext<ApplicationContext>(options => options.UseSqlServe
 builder.Services.AddTransient<ApplicationContext, ApplicationContext>();
 builder.Services.AddTransient<IProductRepository, ProductRepository>();
 builder.Services.AddTransient<IProductServices, ProductServices>();
+builder.Services.AddApplicationMediaR();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
